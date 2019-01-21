@@ -1,7 +1,7 @@
 # Free time learning.  
 Simple predictive model with keras. The model summary is as follows:
 
-Layer (type)                 Output Shape              Param #   
+Layer (type)                 Output Shape              Param 
 =================================================================
 dense_3 (Dense)              (None, 64)                512       
 _________________________________________________________________
